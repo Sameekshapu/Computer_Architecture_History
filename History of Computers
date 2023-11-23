@@ -1,0 +1,27 @@
+MEASURING PERFORMANCE
+Performance Observation
+ENIAC was to be 1000 times faster than the
+Harvard Mark-I
+IBM Stretch (7030) was to be 100 times
+faster than the fastest computer then in existence.
+The original measure of performance was the time required to
+perform an individual operation, such as addition.
+
+
+What is Average instruction execution time?
+
+Time for each instruction * weight in the mix
+ 
+
+Since instruction sets were similar,
+this was a more precise comparison than add times. From average
+instruction execution time, then, it was only a small step to MIPS.
+MIPS had the virtue of being easy to understand; hence, it grew in
+popularity.
+
+THE QUEST FOR AN AVERAGE PROGRAM 
+
+As processors were becoming more sophisticated and relied on
+memory hierarchies and pipelining, a single execution time for each instruction no longer existed; neither execution time nor MIPS, therefore, could be calculated from the instruction mix and the manual.
+
+Lets look into the Benchmarks 
